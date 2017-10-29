@@ -1,0 +1,336 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+body
+{
+    font-size:15px;
+    color:#000;
+}
+#top
+{
+    padding:0 5%;
+    height: 50px;
+    background:#fff;
+    color:#000;
+    overflow: hidden;
+}
+#gq
+{
+    max-width:1600px;
+    height:100%;
+    margin:0 auto;
+    clear:both;
+}
+#logo
+{
+    padding:13px 20px 14px 12px;
+    width:137px;
+    height: 96%;
+    margin-top:1px;
+    margin-left:-12px;
+    float: left;
+}
+#Logo
+{
+    width:108px;
+    margin-top: -1px;
+    vertical-align: middle;
+}
+#top_middle
+{
+    float: left;
+    height: 100%;
+    color:#000;
+}
+ul
+{
+    list-style: none;
+}
+.li-1
+{
+    color:#262626;
+    float: left;
+    margin-top: 1px;
+    padding:13px 38px 13px 26px;
+    height:49px;
+}
+.li-1:hover
+{
+    text-decoration: underline;
+}
+#top_right
+{
+    float:right;
+}
+#keai
+{
+    border:1px solid  rgba(0,0,0,0.6);
+    height:38px;
+    width:264px;
+    float:left;
+    margin-top: 6px;
+    color:#000;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+#cr
+{
+    border:none;
+    font-size: 15px;
+    display: block;
+    float: left;
+    padding:7px 20px 7px 10px;
+    box-sizing: border-box;
+    outline: none;
+}
+#sosuo
+{
+    height:16px;
+    width:16px;
+}
+#ss
+{
+    height:32px;
+    width:34px;
+    margin: 2px 2px 1px 1px;
+    padding:9px;
+    float: left;
+    box-sizing: border-box;
+}
+#gw
+{
+    float: left;
+    margin:15px 25px 0 12px;
+    border: 1px;
+    overflow: hidden;
+    vertical-align: middle;
+}
+#dl
+{
+    padding-top:1px;
+    float:left;
+    width:56px;
+    height:48px;
+    color:#262626;
+    min-width: 56px;
+    font-size: 14px;
+    border:1px;
+    line-height:48px;
+}
+.first
+{
+    box-sizing: border-box;
+    text-align: center;
+    width:100%;
+    padding-left:5%;
+    padding-right:5%;
+}
+.com
+{
+    width:100%;
+}
+#second
+{
+    overflow: hidden;
+    box-sizing: border-box;
+    padding-left:5%;
+    padding-right:5%;
+    min-height: 1px;
+    margin:0 auto;
+    margin-top: 48px;
+}
+.dj
+{
+    padding-left:24px;
+    padding-right:24px;
+    overflow: hidden;
+    box-sizing: border-box;
+    width:100%;
+}
+.office
+{
+    float: left;
+    box-sizing: border-box;
+    width:25%;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+.photo
+{
+    width: 267.08px;
+    height:150.28px;
+}
+h3
+{
+    padding-right:12px;
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: 700;
+    padding-top: 12px;
+    padding-bottom: 2px;
+}
+h3:hover
+{
+    text-decoration: underline;
+}
+.cp
+{
+    padding-right: 12px;
+    padding-top: 2px;
+}
+.hyper
+{
+    padding:10px 16px 10px 0;
+    color:#0067B8;
+}
+.hyper:hover
+{
+    text-decoration: underline;
+}
+#middle
+{
+    padding-left:5%;
+    padding-right:5%;
+    box-sizing: border-box;
+    text-align: center;
+    overflow: hidden;
+    padding-top:48px;
+}
+#wg
+{
+    padding-left:5%;
+    padding-right:5%;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+#nl
+{
+    padding:20px 24px 15px 24px;
+}
+h2
+{
+    font-size: 24px;
+    line-height: 28px;
+    padding:36px 0 4px 12px;
+    font-weight: 700;
+}
+.avg
+{
+    float:left;
+    width:25%;
+}
+#wb
+{
+    padding-left:5%;
+    padding-right:5%;
+    box-sizing: border-box;
+    margin-top: 48px;
+    margin-bottom: 48px;
+}
+#ps
+{
+    font-size: 15px;
+    line-height: 20px;
+    padding-right: 12px;
+    margin-bottom: 4px;
+    vertical-align: middle;
+}
+#last
+{
+    background: #f2f2f2;
+    margin-top: 48px;
+    padding-left:5%;
+    padding-right:5%;
+    margin:0 auto;
+    max-width:calc(1600px + 10%);
+    overflow: hidden;
+}
+.qing
+{
+    box-sizing: border-box;
+    float: left;
+    min-height: 1px;
+    padding:0 12px;
+    zoom:1;
+    width:16.666666667%
+}
+h6
+{
+    font-size:15px;
+    color:#616161;
+    line-height: 20px;
+    padding:36px 0 4px;
+    font-weight: 700px;
+}
+.shi
+{
+    font-size: 11px;
+    line-height: 16px;
+    margin:8px 0;
+}
+.dan
+{
+    padding:8px 0;
+    color:#616161;
+}
+.dan:hover
+{
+    text-decoration: underline;
+}
+.empty
+{
+    height:1px;
+    background: #f2f2f2;
+    overflow: hidden;
+}
+#bottom
+{
+    background: #f2f2f2;
+    padding:30px 5% 16px;
+    overflow: hidden;
+    height:24px;
+    line-height: 24px;
+}
+#Chinese
+{
+    float:left;
+}
+#China
+{
+    font-size:11px;
+    line-height: 16px;
+    margin-right: 10px;
+    color:#616161;
+    vertical-align: middle;
+    text-decoration: none;
+    padding-right:24px;
+}
+#China:hover
+{
+    text-decoration: underline;
+}
+#zuqiu
+{
+    width:20px;
+    height:24px;
+    margin-right: 10px;
+}
+#ul
+{
+    font-size: 11px;
+    line-height: 16px;
+    margin:3px 0;
+    float:right;
+}
+.coco
+{
+    padding:0 24px 4px 0;
+    color:#616161;
+    float: left;
+}
+.coco:hover
+{
+    text-decoration: underline;
+}
